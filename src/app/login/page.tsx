@@ -68,7 +68,7 @@ const Login = () => {
         setIsPasswordError(true);
       }
     }
-  };
+  }; 
 
   return (
     <div>
